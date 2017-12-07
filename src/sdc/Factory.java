@@ -12,6 +12,7 @@ public class Factory {
 
 	// add all types or operation here
 	this.list.add("IntegerValue");
+	this.list.add("RationalValue");
 
 	this.list.add("QuitSymbol");
 	this.list.add("ClearSymbol");
