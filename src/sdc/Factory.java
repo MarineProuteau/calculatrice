@@ -9,15 +9,10 @@ public class Factory {
 
 	public Factory() {
 		this.list = new ArrayList<String>();
-
-<<<<<<< HEAD
-	// add all types or operation here
-	this.list.add("IntegerValue");
-	this.list.add("RationalValue");
-=======
+		
 		// add all types or operation here
 		this.list.add("IntegerValue");
->>>>>>> master
+		this.list.add("RationalValue");
 
 		this.list.add("QuitSymbol");
 		this.list.add("ClearSymbol");

@@ -25,4 +25,8 @@ public class RationalValue extends Value {
 		}
 		return true;
     }
+    
+    public String toString() {
+		return "" + this.numerateur + "#" + this.denumerateur;
+	}
 }
